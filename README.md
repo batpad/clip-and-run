@@ -2,6 +2,12 @@
 
 A simple utility to split up a GeoJSON Feature Collection by a supplied list of polygons / areas, and create a Mapbox Dataset for each area.
 
+### Install
+
+```
+npm install -g clip-and-run
+```
+
 ### Usage:
 
 First, set an environment variable called `MapboxAccessToken` with your access token, must have the `dataset:write` scope.
