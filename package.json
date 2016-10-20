@@ -22,6 +22,7 @@
   "dependencies": {
     "city-clipper": "^1.0.15",
     "cuid": "^1.3.8",
+    "d3-queue": "^3.0.3",
     "mapbox": "^1.0.0-beta",
     "minimist": "^1.2.0",
     "queue-async": "^1.2.1"
