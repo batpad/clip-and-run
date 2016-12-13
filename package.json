@@ -1,6 +1,6 @@
 {
   "name": "clip-and-run",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Clip GeoJSON into polygons, get datasets for each.",
   "main": "index.js",
   "scripts": {
